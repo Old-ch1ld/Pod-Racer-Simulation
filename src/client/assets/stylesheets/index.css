@@ -21,7 +21,7 @@ body {
 }
 
 header {
-  background-image: url('https://via.placeholder.com/1150');
+  background-image: url('https://wallpapers.com/images/featured/60khof1nlpcww408.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -90,9 +90,15 @@ section {
   padding: 30px 0;
 }
 
-footer {
-  height: 200px;
-  background-color: black;
+.card {
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card.track h3 {
+  min-height: 100px;
 }
 
 /* -------------------  TABLET  --------------------- */

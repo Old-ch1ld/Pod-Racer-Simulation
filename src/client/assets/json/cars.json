@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "driver_name": "Red Bull Racing",
+        "img": "car_1",
+        "top_speed": 650,
+        "acceleration": 8,
+        "handling": 7
+    },
+    {
+        "id": 2,
+        "driver_name": "Aston Martin",
+        "img": "car_2",
+        "top_speed": 600,
+        "acceleration": 9,
+        "handling": 9
+    },
+    {
+        "id": 3,
+        "driver_name": "Mercedes",
+        "img": "car_3",
+        "top_speed": 500,
+        "acceleration": 10,
+        "handling": 6
+    },
+    {
+        "id": 4,
+        "driver_name": "Ferrari",
+        "img": "car_4",
+        "top_speed": 550,
+        "acceleration": 7,
+        "handling": 8
+    },
+    {
+        "id": 5,
+        "driver_name": "McLaren",
+        "img": "car_5",
+        "top_speed": 700,
+        "acceleration": 5,
+        "handling": 4
+    }
+]
